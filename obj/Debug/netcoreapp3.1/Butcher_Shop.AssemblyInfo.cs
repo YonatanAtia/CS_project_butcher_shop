@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Butcher_Shop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c18ac2853928e2f022a1e4d9f5ccb37fb6a9060c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Butcher_Shop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Butcher_Shop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

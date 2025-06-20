@@ -52,3 +52,6 @@ C:\Users\Lior\Desktop\כריכים\Butcher_Shop\Butcher_Shop\bin\Debug\netcoreap
 C:\Users\Lior\Desktop\כריכים\Butcher_Shop\Butcher_Shop\bin\Debug\netcoreapp3.1\Butcher_Shop.dll
 C:\Users\Lior\Desktop\כריכים\Butcher_Shop\Butcher_Shop\bin\Debug\netcoreapp3.1\Butcher_Shop.pdb
 C:\Users\Lior\Desktop\כריכים\Butcher_Shop\Butcher_Shop\obj\Debug\netcoreapp3.1\Butcher_Shop.genruntimeconfig.cache
+C:\Users\Yonatan\Documents\Butcher_Shop\Butcher_Shop\obj\Debug\netcoreapp3.1\Butcher_Shop.csproj.AssemblyReference.cache
+C:\Users\Yonatan\Documents\Butcher_Shop\Butcher_Shop\obj\Debug\netcoreapp3.1\Butcher_Shop.dll
+C:\Users\Yonatan\Documents\Butcher_Shop\Butcher_Shop\obj\Debug\netcoreapp3.1\Butcher_Shop.pdb
